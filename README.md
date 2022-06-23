@@ -1,2 +1,1 @@
-# -odds-and-ends
-The different kinds of codes that I wrote...
+동물실험통계학
